@@ -21,8 +21,16 @@
     "transformation",
     "types"
   ],
-  "author": "",
+  "author": "Chris Miaskowski",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-miaskowski/js-to-ts-transformer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/chris-miaskowski/js-to-ts-transformer/issues"
+  },
+  "homepage": "https://github.com/chris-miaskowski/js-to-ts-transformer#readme",
   "dependencies": {
     "@babel/generator": "^7.26.9",
     "@babel/parser": "^7.26.9",
